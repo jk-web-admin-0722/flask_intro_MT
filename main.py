@@ -14,3 +14,4 @@ def kontakti():
 
 if __name__ == '_main_':
     app.run(debug = True)
+    
